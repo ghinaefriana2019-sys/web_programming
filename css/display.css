@@ -1,0 +1,18 @@
+div {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+p {
+    background-color: blue;
+    margin: 10px;
+}
+
+span {
+    background-color: brown;
+    display: block;
+    height: 2opx;
+    width: 50px;
+}
